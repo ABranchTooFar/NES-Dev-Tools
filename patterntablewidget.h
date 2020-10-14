@@ -18,6 +18,8 @@ class PatternTableWidget : public QWidget
         void drawWidget(QPainter &qp);
 
     private:
+        int mouse_x = 0;
+        int mouse_y = 0;
 };
 
 #endif

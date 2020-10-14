@@ -1,1 +1,6 @@
+nes-dev-tools
+*.o
+*.swp
+moc_*
 .qmake.stash
+c_cpp_properties.json
